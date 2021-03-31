@@ -1,4 +1,4 @@
-export const TMDB_KEY = 'api_key=8079c8ef46a65047553ab8e45b990c53';
+export const TMDB_KEY = 'api_key=';
 export const TMDB_URL = 'https://api.themoviedb.org/3/';
 
 export const S_BACKDROP = 'w300';
